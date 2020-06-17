@@ -168,8 +168,14 @@ strong{
 }
   
 .section-right img{
-  background-color: peru;
-}
+  background-color: peru; */
+ }
+ 
+ 
+  
+
+
+
 /* Articles*/
 .table{
   display: flex;
@@ -251,15 +257,15 @@ footer p{
   opacity: 0.7;
 }  
 .fa-facebook {
-  background: #a7a8ab;
-  color: white;
+  background:blue;
+  color:white;
 }  
 .fa-twitter {
-  background: #a7a8ab;
+  background:skyblue;
   color: white;
 }
 .fa-instagram {
-  background: #a7a8ab;
+  background:purple;
   color: white;
 }
 .border {
